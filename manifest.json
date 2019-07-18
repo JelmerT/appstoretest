@@ -1,0 +1,26 @@
+{
+	"data": {
+		"title": "example manifest",
+		"games": [{
+			"title": "testGit1",
+			"type": "git",
+			"description":"Testgame 1",
+			"url": "https://raw.githubusercontent.com/JelmerT/appstoretest/master/game1.cpp"
+		}, {
+			"title": "testGit2",
+			"type": "git",
+			"description":"Testgame 2",
+			"url": "https://raw.githubusercontent.com/JelmerT/appstoretest/master/game2.cpp"
+		}, {
+			"title": "testGit3",
+			"type": "git",
+			"description":"Testgame 3",
+			"url": "https://raw.githubusercontent.com/JelmerT/appstoretest/master/game3.cpp"
+		}, {
+			"title": "testParticleBuild1",
+			"type": "particle-build",
+			"description":"Testgame 4",
+			"url": "https://go.particle.io/shared_apps/5d2fcc5178e35c00052c0856"
+		}]
+	}
+}
